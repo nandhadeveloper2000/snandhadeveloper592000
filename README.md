@@ -31,8 +31,3 @@ Training institute and technology service website with admin panel and SEO-focus
 - Website: https://nandhakumar-s-protfolio.vercel.app
 - GitHub: https://github.com/snandhadeveloper592000
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snandhadeveloper592000&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snandhadeveloper592000&layout=compact&theme=dark)
